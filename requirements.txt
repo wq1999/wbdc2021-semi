@@ -1,0 +1,9 @@
+deepctr-torch==0.2.7
+lightgbm==3.2.1
+numpy==1.18.5
+pandas==1.0.5
+scikit-learn==0.23.1
+torch==1.2.0
+tqdm==4.60.0
+gensim==4.0.1
+joblib==1.0.1
